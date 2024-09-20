@@ -1,0 +1,70 @@
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Form1.resources
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+c:\users\michael thomas\desktop\WindowsFormsBall_2\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Form1.resources
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.FormBall.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_3\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.FormBall.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2019\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.FormBall.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2020_3\ITA\Norwegen C#\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csprojAssemblyReference.cache
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.FormBall.resources
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+C:\Users\Michael Thomas\Desktop\2022_1\Ita\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe.config
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.exe
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\bin\Debug\WindowsFormsBall_2.pdb
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.AssemblyReference.cache
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.FormBall.resources
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.Properties.Resources.resources
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.GenerateResource.cache
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.csproj.CoreCompileInputs.cache
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.exe
+E:\2024_1\ITA\MS\C#12\7cFormBall\WindowsFormsBall_4\WindowsFormsBall_2\obj\Debug\WindowsFormsBall_2.pdb
